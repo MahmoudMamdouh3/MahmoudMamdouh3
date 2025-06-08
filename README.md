@@ -2,13 +2,15 @@
 
 🎓 I'm a fresh Computer Science graduate from Misr International University (MIU) in Cairo, Egypt  
 💡 Ex Software Engineering Intern at Microsoft  
-🔭 I’m currently working on Full Stack Development Projects  
+🔭 Currently working on Full Stack Development Projects  
 
 ---
 
 ### 📫 Connect with Me:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoudmamdouh1)
 - 📧 Email: mahmoudmamdouhm3@gmail.com
+- 💻 [GitHub](https://github.com/MahmoudMamdouh3)
+
 
 
 <!--
