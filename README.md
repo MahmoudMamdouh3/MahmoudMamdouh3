@@ -2,7 +2,6 @@
 
 🎓 I'm a fresh Computer Science graduate from Misr International University (MIU) in Cairo, Egypt  
 💡 Ex Software Engineering Intern at Microsoft  
-🔭 Currently working on Full Stack Development Projects  
 
 ---
 
