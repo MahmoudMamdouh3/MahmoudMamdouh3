@@ -1,8 +1,7 @@
 ### Hi, I'm Mahmoud 👋
-Game Programmer | C++ & C# | Unity & Unreal Engine.
-
+Software Engineer || Full Stack Developer 
 🎓 I'm a fresh Computer Science graduate from Misr International University (MIU) in Cairo, Egypt  
-💡 Ex Software Engineering Intern at Microsoft  
+💡 Ex Software Engineering Intern at Microsoft  || ITI Trainee
 
 ---
 
@@ -10,6 +9,7 @@ Game Programmer | C++ & C# | Unity & Unreal Engine.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoudmamdouh1)
 - 📧 Email: mahmoudmamdouhm3@gmail.com
 - 💻 [GitHub](https://github.com/MahmoudMamdouh3)
+- Phone: +201126312479
 
 
 
