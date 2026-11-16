@@ -3,8 +3,6 @@
 **Software Engineer | Front-End & Full-Stack Web Developer**  
 Building fast, accessible, architecture-driven web applications.
 
-🌐 **Portfolio:** [mahmoudmamdouh3.github.io](https://mahmoudmamdouh3.github.io/)
-
 - 🎓 **B.Sc. in Computer Science** — Misr International University (MIU), Cairo, Egypt
 - 💼 **Ex-Software Engineering Intern at Microsoft** (Full-Stack & Data Science)
 - 🎯 **ITI 9-Month Postgraduate Scholarship Graduate** · **Deloitte Innovation Hub Mentee**
@@ -36,7 +34,6 @@ Building fast, accessible, architecture-driven web applications.
 
 ### 📫 Connect with Me
 
-- 🌐 **Portfolio:** [https://mahmoudmamdouh3.github.io/](https://mahmoudmamdouh3.github.io/)
 - 🔗 **LinkedIn:** [linkedin.com/in/mahmoudmamdouh1](https://www.linkedin.com/in/mahmoudmamdouh1/)
 - 📧 **Email:** [mahmoudmamdouhm3@gmail.com](mailto:mahmoudmamdouhm3@gmail.com)
 - 📱 **Phone:** +20 112 631 2479
