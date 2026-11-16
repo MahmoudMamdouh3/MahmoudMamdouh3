@@ -1,25 +1,42 @@
-### Hi, I'm Mahmoud 👋
-Software Engineer || Full Stack Developer 
-🎓 I'm a fresh Computer Science graduate from Misr International University (MIU) in Cairo, Egypt  
-💡 Ex Software Engineering Intern at Microsoft  || ITI Trainee
+### Hi, I'm Mahmoud Mamdouh 👋
+
+**Software Engineer | Front-End & Full-Stack Web Developer**  
+Building fast, accessible, architecture-driven web applications.
+
+🌐 **Portfolio:** [mahmoudmamdouh3.github.io](https://mahmoudmamdouh3.github.io/)
+
+- 🎓 **B.Sc. in Computer Science** — Misr International University (MIU), Cairo, Egypt
+- 💼 **Ex-Software Engineering Intern at Microsoft** (Full-Stack & Data Science)
+- 🎯 **ITI 9-Month Postgraduate Scholarship Graduate** · **Deloitte Innovation Hub Mentee**
+- 🧑‍🏫 **Ex-Teaching Co-Assistant** at MIU (Algorithms, Data Structures, OOP)
+- 🌱 **Community Founder:** Founded **ACPC Club MIU** & **MSP Tech Club - MIU**
+- 📫 **Open to:** Junior Front-End & Full-Stack Software Engineering roles
 
 ---
 
-### 📫 Connect with Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoudmamdouh1)
-- 📧 Email: mahmoudmamdouhm3@gmail.com
-- 💻 [GitHub](https://github.com/MahmoudMamdouh3)
-- Phone: +201126312479
+### 🛠️ Technical Stack
 
+| Domain | Technologies |
+| :--- | :--- |
+| **Front-End & UI** | `React` · `Next.js` · `TypeScript` · `JavaScript (ES6+)` · `HTML5` · `CSS3 / SASS` · `Three.js` · `Chart.js` |
+| **Back-End & Data** | `Node.js` · `Django` · `Python` · `MongoDB` · `SQLite` · `NoSQL` · `REST APIs` |
+| **Core CS & Systems** | `C++` · `C#` · `Java` · `Data Structures & Algorithms` · `Object-Oriented Design` |
+| **Tooling & Testing** | `Vite` · `Vitest` · `Git / GitHub` · `Linux` · `Bash` · `Electron` |
 
+---
 
-<!--
-**MahmoudMamdouh3/MahmoudMamdouh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Highlighted Engineering Work
 
-Here are some ideas to get you started:
+- **Tile — Modular Workspace Application:** Full-stack modular productivity workspace unifying Calendar, Planner, Pomodoro Timer, To-Do Lists, and custom user "Tiles" (`React/Next.js`, `Node.js`, `MongoDB`, `CSS/SASS`, `Electron`).
+- **Stock Market Simulation & AI Assistant (Microsoft Internship):** Full-stack trading simulator paired with Python ML price prediction and trade guidance (`React`, `Node.js`, `JavaScript`, `Python`, `NoSQL`).
+- **Interactive 3D Physics Experiments Suite:** Modular TypeScript + Vite browser simulation platform using a Strategy/Plugin pattern, persistent Three.js master scene, Chart.js real-time plots, and Vitest verification.
+- **SuperSonics (Graduation Project):** Multimodal audio enhancement & vocal synthesis web platform (`React`, `Django`, `Python`, `TensorFlow`, `SQLite`).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+---
+
+### 📫 Connect with Me
+
+- 🌐 **Portfolio:** [https://mahmoudmamdouh3.github.io/](https://mahmoudmamdouh3.github.io/)
+- 🔗 **LinkedIn:** [linkedin.com/in/mahmoudmamdouh1](https://www.linkedin.com/in/mahmoudmamdouh1/)
+- 📧 **Email:** [mahmoudmamdouhm3@gmail.com](mailto:mahmoudmamdouhm3@gmail.com)
+- 📱 **Phone:** +20 112 631 2479
